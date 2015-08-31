@@ -29,3 +29,7 @@ Long list of projects that will likely never be finished (or maybe even started)
 - Build one prototype (*with* control system!) for each topology
 - Write a blog post for each result
 - Use junk for parts
+
+## Urinal generator
+- Use a small motor and try to generate enough power to light LEDs
+- If possible, make a pee-o-meter
