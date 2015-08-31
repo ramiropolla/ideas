@@ -8,6 +8,7 @@ Long list of projects that will likely never be finished (or maybe even started)
 
 ## ASCIImaton
 - Find an old Photomaton
+-- Design Photomaton with the looks of old (ca. 80s) computers and printers.
 - Find a dot-matrix printer
 - Develop img2txt algorithm
 - Implement it all in a raspberry pi
