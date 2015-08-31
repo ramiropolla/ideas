@@ -33,3 +33,7 @@ Long list of projects that will likely never be finished (or maybe even started)
 ## Urinal generator
 - Use a small motor and try to generate enough power to light LEDs
 - If possible, make a pee-o-meter
+
+## Broken camera photo app
+- Looks for pictures on the net with your GPS coordinates
+- If possible, get compass information as well (like that app that shows the stars)
