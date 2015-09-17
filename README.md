@@ -39,3 +39,8 @@ Long list of projects that will likely never be finished (or maybe even started)
 ## Broken camera photo app
 - Looks for pictures on the net with your GPS coordinates
 - If possible, get compass information as well (like that app that shows the stars)
+
+## MAMEscope
+- Check if it's feasible to overwrite the firmware in the Rigol DS1054Z oscilloscope
+- Plug controller to USB port
+- Play Mario!
