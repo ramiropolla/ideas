@@ -47,6 +47,7 @@ Long list of projects that will likely never be finished (or maybe even started)
 
 ## PrinterMESS
 - Implement a printer driver for Windows which uses MESS as the backend
+ - Try using RedMon <http://pages.cs.wisc.edu/~ghost/redmon/>
 - Save result to PDF
 - Show printer, motor, and noises? (nah...)
 - Run MESS at full speed
