@@ -14,9 +14,10 @@ Long list of projects that will likely never be finished (or maybe even started)
  - Algorithm should be tuned to work in only one scenario: with a very controlled light coming from flash or LED
 - Implement it all in a raspberry pi
 
-## IDA cpu module for upd7810
-- Write IDA cpu module for upd7810
-- Test with Action Printer 2000 firmware
+## ~~IDA cpu module for upd7810~~
+- ~~Write IDA cpu module for upd7810~~
+- ~~Test with Action Printer 2000 firmware~~
+- not worth the effort, I'll write a more useful cpu when I have enough devices with the same chip
 
 ## CIV2 decompilation
 - Write blog with bits and pieces of decompilation
