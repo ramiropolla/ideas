@@ -9,7 +9,9 @@ Long list of projects that will likely never be finished (or maybe even started)
 ## ASCIImaton
 - Find an old Photomaton
  - Design Photomaton with the looks of old (ca. 80s) computers and printers.
-- Find a dot-matrix printer
+- ~~Find a dot-matrix printer~~ (found 2 already)
+ - ASTECH M-1 (simple, small, fast!)
+ - NEC PinWriter P72 (BIG, takes A3 paper!)
 - Develop img2txt algorithm
  - Algorithm should be tuned to work in only one scenario: with a very controlled light coming from flash or LED
 - Implement it all in a raspberry pi
