@@ -54,3 +54,10 @@ Long list of projects that will likely never be finished (or maybe even started)
 - Save result to PDF
 - Show printer, motor, and noises? (nah...)
 - Run MESS at full speed
+
+## Safe Bike Map
+- Android App
+- Logs GPS information
+- Uses echo location to see how far objects come to your left (right in the UK)
+- Upload info to server
+- Mark hotspots of dangerous places for bikers
