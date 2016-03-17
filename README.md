@@ -61,3 +61,9 @@ Long list of projects that will likely never be finished (or maybe even started)
 - Uses echo location to see how far objects come to your left (right in the UK)
 - Upload info to server
 - Mark hotspots of dangerous places for bikers
+
+## DonkeyCam
+- Place a GoPro on one of those donkey carts used by garbage collectors
+
+## Hackerspace film night
+- Watch "technological" films and discuss the science errors
